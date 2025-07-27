@@ -1,16 +1,22 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Onur+👋;Siber+Güvenlik+%7C+Python+%7C+Linux;CTF+%C3%87%C3%B6z%C3%BCmleri+%7C+GitHub+Projeleri)](https://git.io/typing-svg)
 
-<!--
-**OnurTugran/OnurTugran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 Hakkımda
+- 🧑‍🎓 Yazılım Mühendisliği 2. sınıf öğrencisi
+- 🔐 Siber güvenlik alanında çalışıyorum
+- 🧠 CTF çözümleri, Python güvenlik araçları geliştiriyorum
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Kullandığım Teknolojiler
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+
+---
+
+### 📈 GitHub İstatistiklerim
+![Onur's GitHub stats](https://github-readme-stats.vercel.app/api?username=KULLANICIADIN&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICIADIN&layout=compact&theme=tokyonight)
