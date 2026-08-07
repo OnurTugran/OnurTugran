@@ -4,16 +4,24 @@
 
 ### 🚀 Hakkımda
 - 🧑‍🎓 Yazılım Mühendisliği 2. sınıf öğrencisi
-- 🔐 Siber güvenlik alanında çalışıyorum
-- 🧠 CTF çözümleri, Python güvenlik araçları geliştiriyorum
+- 🔐 Siber güvenlik ve web zafiyetleri alanında uygulamalı çalışmalar yapıyorum
+- 🧠 CTF çözümleri ve sızma testleri yapıyor, Python ile otomasyon (Discord botları, masaüstü GUI araçları) ve yapay zeka/görüntü işleme betikleri geliştiriyorum.
 
 ---
 
-### 🧰 Kullandığım Teknolojiler
+### 🧰 Kullandığım Teknolojiler ve Araçlar
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![PortSwigger](https://img.shields.io/badge/PortSwigger-FF6633?style=for-the-badge)
+
+---
+
+### 🏆 Sertifikalar ve Eğitimler
+- **Huawei ICT Academy:** 5G, Cloud Computing, Artificial Intelligence, IoT, Data Management
 
 ---
 
