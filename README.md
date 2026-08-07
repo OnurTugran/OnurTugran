@@ -3,7 +3,7 @@
 ---
 
 ### 🚀 Hakkımda
-- 🧑‍🎓 Yazılım Mühendisliği 2. sınıf öğrencisi
+- 🧑‍🎓 Yazılım Mühendisliği 3. sınıf öğrencisi
 - 🔐 Siber güvenlik ve web zafiyetleri alanında uygulamalı çalışmalar yapıyorum
 - 🧠 CTF çözümleri ve sızma testleri yapıyor, Python ile otomasyon (Discord botları, masaüstü GUI araçları) ve yapay zeka/görüntü işleme betikleri geliştiriyorum.
 
