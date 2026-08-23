@@ -22,8 +22,3 @@
 
 ### 🏆 Sertifikalar ve Eğitimler
 - **Huawei ICT Academy:** 5G, Cloud Computing, Artificial Intelligence, IoT, Data Management
-
----
-
-### 📈 GitHub İstatistiklerim
-![Onur's GitHub Streak](https://streak-stats.demolab.com/?user=OnurTugran&theme=radical&hide_border=true)
