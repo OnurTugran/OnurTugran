@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Onur+👋;Siber+Güvenlik+%7C+Python+%7C+Linux;CTF+%C3%87%C3%B6z%C3%BCmleri+%7C+GitHub+Projeleri)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Onur+👋;Siber+Güvenlik+%7C+Python+%7C+Linux;+%7C+GitHub+Projeleri)](https://git.io/typing-svg)
 
 ---
 
