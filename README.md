@@ -1,11 +1,24 @@
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F700&center=true&vCenter=true&width=435&lines=Merhaba,+Ben+Onur+👋;Siber+Güvenlik+%7C+Python+%7C+Linux;+%7C+GitHub+Projeleri)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
 ### 🚀 Hakkımda
 - 🧑‍🎓 Yazılım Mühendisliği 3. sınıf öğrencisi
 - 🔐 Siber güvenlik ve web zafiyetleri alanında uygulamalı çalışmalar yapıyorum
-- 🧠 CTF çözümleri ve sızma testleri yapıyor, Python ile otomasyon (Discord botları, masaüstü GUI araçları) ve yapay zeka/görüntü işleme betikleri geliştiriyorum.
+- 🧠 Python ile otomasyon (Discord botları, masaüstü GUI araçları) ve yapay zeka/görüntü işleme betikleri geliştiriyorum
+
+---
+
+### 📌 Öne Çıkan Projeler
+- 🛰️ [**SSRF-Ghost**](https://github.com/OnurTugran/SSRF-Ghost) — WAF/filtre atlatma teknikleriyle SSRF zafiyeti tespiti yapan çok kanallı Python aracı
+- 🛡️ [**google-dork-auditor**](https://github.com/OnurTugran/google-dork-auditor) — Hassas veri sızıntılarını tespit eden GUI/CLI tabanlı OSINT denetim aracı
+- 🕵️ [**Stealth-TCP-SYN-Scanner**](https://github.com/OnurTugran/Stealth-TCP-SYN-Scanner) — Scapy ile yazılmış, SYN paketleriyle çalışan gizli port tarayıcı
+- 🕷️ [**BHP-Net-Tool**](https://github.com/OnurTugran/BHP-Net-Tool) — Socket programlama ve threading üzerine kurulu Netcat klonu
+- 🧩 [**omniverse**](https://github.com/OnurTugran/omniverse) — PyQt6 ile yazılmış dosya dönüştürücü / sıkıştırıcı masaüstü uygulaması
 
 ---
 
@@ -22,3 +35,12 @@
 
 ### 🏆 Sertifikalar ve Eğitimler
 - **Huawei ICT Academy:** 5G, Cloud Computing, Artificial Intelligence, IoT, Data Management
+
+---
+
+### 📊 GitHub İstatistikleri
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=OnurTugran&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurTugran&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages" />
+</div>
