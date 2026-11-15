@@ -35,12 +35,15 @@
 
 ### 🏆 Sertifikalar ve Eğitimler
 - **Huawei ICT Academy:** 5G, Cloud Computing, Artificial Intelligence, IoT, Data Management
+- **NATO STO Summer School on Dual-Use Quantum Technology (IST-TSI-244):** Delft, Hollanda — 20-24 Temmuz 2026 ([Sertifika](certificates/NATO-IST-244-Quantum-Summer-School.pdf))
 
 ---
 
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=OnurTugran&show_icons=true&theme=tokyonight&hide_border=true&count_private=false" width="48%" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OnurTugran&layout=compact&theme=tokyonight&hide_border=true" width="38%" alt="Top languages" />
+
+![Followers](https://img.shields.io/github/followers/OnurTugran?style=for-the-badge&logo=github&label=Followers)
+![Public Repos](https://img.shields.io/badge/dynamic/json?style=for-the-badge&logo=github&label=Public%20Repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2FOnurTugran)
+
 </div>
